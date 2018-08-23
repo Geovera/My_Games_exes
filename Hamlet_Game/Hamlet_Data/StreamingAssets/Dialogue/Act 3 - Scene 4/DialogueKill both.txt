@@ -1,0 +1,6 @@
+Hamlet, These rats trying to fool and trick me, 
+Hamlet,wea,Sword1
+Hamlet,wea,WalkingR
+Hamlet,wea,Sword
+Hamlet, Now that this is done I shall escape quickly, 
+ , , 

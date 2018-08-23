@@ -1,0 +1,31 @@
+Hamlet, I'll play this bout first. Set it by a while. Come., 
+Hamlet,wea,fight
+Hamlet, Another hit what say you, 
+Hamlet,wea,stop
+Laertes, A touch i do confess't, 
+Gertrude, The queen carouses to thy fortune Hamlet.,
+Hamlet, Good madam, 
+Claudius, Gertrude do not drink., 
+Gertrude, I will my lord. I pray you pardon me, 
+Hamlet, I dare not drink yet madam. By and by, 
+Hamlet, Come for the third Laertes, 
+Laertes, Say you so, Come on, 
+Hamlet,wea,fight
+Hamlet, Now i have your sword take this, 
+Gertrude,wea,gFall
+Claudius, The queen has fallen!, 
+Laertes, O to be slain by my own treachery!, 
+Laertes,wea,lFall
+Hamlet, How is the queen?, 
+Gertrude, The drink the drink! - O my dear Hamlet! The drink. I'm poisoned., 
+Gertrude,wea,gDead
+Hamlet, Treachery close the door, 
+Laertes, The king is to blame!, 
+Hamlet, The point envenomed too! - Then venom to thy work., 
+Claudius,wea,cFall
+Claudius, O yet defend me friends. I am but hurt.. 
+Laetes, Hamlet let's exchange forgiveness., 
+Laertes, Mine and my father's death come not upon thee, nor thine on me.,lDead
+Hamlet, O what a horrid fate i have experienced, 
+Hamlet, To accomplish vengance to such high cost, 
+ , , 

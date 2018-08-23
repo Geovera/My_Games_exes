@@ -1,0 +1,17 @@
+Claudius, Come Hamlet come and take this hand from me., 
+Hamlet, Give me your pardon sir. I've done you wrong., 
+Hamlet, Roughly awake i here proclaim was madness. Was 't Hamlet wronged Laertes?, 
+Hamlet, Never Hamlet. Hamlet denies it. It was his madness., 
+Laertes, I am satisfied in nature whose motive in this case should stir me most to my revenge., 
+Laertes, But in terms of my honor i stand aloof. But i do recieve your offered love like love., 
+Hamlet, I embrace it freely. Give us the foils. Come on., 
+Hamlet,wea,fight
+Hamlet, Come on sir., 
+Laertes, Come my lord., 
+Hamlet, One, 
+Hamlet,wea,stop
+Claudius, A hit a very palpable hit., 
+Laertes, Well again., 
+Claudius, Stay give me drink - Hamlet this pearl is thine. Here's to thy health, 
+ , , 
+asd,Fight normally,Drink the cup,Fight even better

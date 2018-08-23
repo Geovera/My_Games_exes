@@ -1,0 +1,12 @@
+Hamlet, Now mother what's the matter?, 
+Gertrude, Hamlet thou hast thy father much offended., 
+Hamlet, Mother you have my father much offended., 
+Gertrude, Why how now Hamlet?, 
+Hamlet, What's the matter now?, 
+Gertrude, Have you forgot me?, 
+Hamlet, No not so. You are the queen your husband's brother's wife and my mother., 
+Hamlet, Come come and sit you down. You shall not budge., 
+Gertrude, What wilt thou do? Thou wilt not murder me? Help help ho!, 
+Polonius, What ho? Help help help!, 
+ , , 
+asd, Kill Polonius,Kill both,Leave

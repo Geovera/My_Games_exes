@@ -1,0 +1,21 @@
+Hamlet, I'll take a drink,
+Hamlet,wea,drink
+Hamlet, What is this foul flavour?,
+Hamlet, Ahhh I'm dying. I've been poisoned., 
+Hamlet,wea,hDead
+Claudius, Alas the fool has fallen, 
+Laertes, I was the one supposed to kill him!, 
+Claudius, Don't sweat over the small details he is finally dead, 
+Claudis, You must be exhausted. Why don't you take a drink, 
+Laertes, I'll accept the propose, 
+Laertes,wea,tomar
+Laertes, Ugh. You bastard. You poisoned me, 
+Claudius, I beg your forgiveness Laertes..., 
+Claudius, ...but seeing that you're capable of starting a revolution..., 
+Claudius, ...I can't have you running around., 
+Laertes, You rotten sick bastard, 
+Laertes,wea,lFall
+Claudius, Hahahahahahahahaha,
+Claudius, HahaHahHAhaHahAhaHaHa,
+Claudius, HAHAHAHAHAAHAHAHAHAHAHA,
+ , , 
