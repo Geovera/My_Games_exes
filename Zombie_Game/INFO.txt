@@ -1,0 +1,10 @@
+This Zombie game is not finished.
+
+It runs and it has the core functions operating, but it has major problems.
+*It has memory leaks
+*There's no start nor end
+*Static images
+
+Since this project was made for a final grade on a course. It is highly unlikely that our team will retake it.
+
+This exe is only here to show that the game works.

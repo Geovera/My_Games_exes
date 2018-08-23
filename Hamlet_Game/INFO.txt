@@ -1,0 +1,7 @@
+A finished visual novel game that was made for a high school class.
+
+This was the first time I used Unity and so I went for something simple, yet creative.
+This game features:
+*2D Movement and Animations
+*Self-made Assets (Execpt for the Music)
+*Different Endings.
